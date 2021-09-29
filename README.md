@@ -16,7 +16,7 @@ Aside from the required CS classes, I took CIS 657 (Mobile Application Developme
 ## In-Progress Project Repositories
 - [Pixel Art Mobile App (CIS 641 - Systems Analysis and Design)](https://github.com/NessXToJason/GVSU-CIS641-TEAM657)
   - A mobile application in which users will be able to draw pictures on a grid by selecting from a color palette and changing the colors of each cell on the grid.
-  - Team GitHub Pages: (TO BE ADDED)
+  - [Team GitHub Pages](https://nessxtojason.github.io/GVSU-CIS641-TEAM657/)
 
 ## Previous Project Repositories
 - [Video Organizer (CIS 657 - Mobile Application Development)](https://github.com/NessXToJason/VideoOrganizer)
