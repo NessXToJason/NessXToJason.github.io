@@ -1,7 +1,7 @@
 # Jason Truskowski
 ## Education
-- Grand Valley State University student (third year)
-- Degree Program: Combined B.S. in Computer Science / M.S. in Computer Science
+- Grand Valley State University third-year student
+- Degree Program: Combined B.S. in Computer Science / M.S. in Computer Science (expected graduation: Spring 2023)
 
 ## Interests
 * Game design - I love analyzing the design of video games, and I would like to try game development as a hobby if I have the time.
@@ -9,9 +9,9 @@
 * Streaming - I picked up this hobby over the summer with some of my friends. I stream games on Twitch for fun in my free time.
 
 ## Technical Background
-I only got into computer science when starting college, as it was something that interested me but I had never gotten a chance to experience in school. ALmost all of my programming experience has come from about the past two years; I was direct-admitted into the CIS program at GVSU, and I began CS core classes in my first semester.
-As a result, I have the most experienced in Java, though I have also worked with C, Python, and JavaScript for classes, and I have also used Linux and git in more recent courses I have taken.
-Aside from the required CS classes, I took CIS 657 (Mobile Application Development) over the summer as one of my first elective courses. I have previously taken CIS 350, so I am familiar with most of the software engineering terminology we have been discussing in this class.
+I only got into computer science when starting college, as it was something that interested me but I had never gotten a chance to experience in school. Almost all of my programming experience has come from about the past two years; I was direct-admitted into the CIS program at GVSU, and I began CS core classes in my first semester.
+As a result, I have the most experienced in Java and C, though I have also worked with Python, JavaScript, and SQL for classes, and I have also used Linux and git in more recent courses I have taken.
+Aside from the required CS classes, I took CIS 657 (Mobile Application Development) over the summer as one of my first elective courses. I have previously taken CIS 350 (Intro to Software Engineering) and am currently taking CIS 641 (Systems Analysis and Design), so I am very familiar with software engineering processes and terminology.
 
 ## In-Progress Project Repositories
 - [Pixel Art Mobile App (CIS 641 - Systems Analysis and Design)](https://github.com/NessXToJason/GVSU-CIS641-TEAM657)
